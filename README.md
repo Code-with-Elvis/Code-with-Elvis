@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elvis Okumu</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h1 align="start">Hi 👋, I'm Elvis Okumu</h1>
+<h3 align="start">A passionate frontend developer from Kenya</h3>
 
 - 🌱 I’m currently learning **Vitest, Cypress**
 
@@ -23,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elvis_137"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elvis_137" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-elvis&show_icons=true&locale=en&layout=compact" alt="code-with-elvis" /></p>
+<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-elvis&show_icons=true&locale=en&layout=compact" alt="code-with-elvis" /></p>
