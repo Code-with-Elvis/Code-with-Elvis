@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=24&duration=3000&pause=1000&color=58C7F3&center=true&vCenter=true&width=650&lines=HI+%F0%9F%91%8B%2C+I'M+ELVIS+OKOTH;FRONT-END+DEVELOPER+FOCUSED+ON+CLEAN+UI%2FUX;CRAFTING+RESPONSIVE+WEB+EXPERIENCES;WRITING+ABOUT+MODERN+WEB+TECHNOLOGIES" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=24&duration=3000&pause=1000&color=58C7F3&center=true&vCenter=true&width=650&lines=HI+%F0%9F%91%8B%2C+I'M+ELVIS;FRONT-END+DEVELOPER;UI%2FUX+ENTHUSIAST;CODE+%26+DESIGN+LOVER;MODERN+WEB+WRITER;FAST,+CLEAN,+ACCESSIBLE" />
 </p>
 
 <p align="center">
