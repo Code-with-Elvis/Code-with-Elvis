@@ -1,4 +1,4 @@
-<h1 align="start">Hi 👋, I'm Elvis Okumu</h1>
+<h1 align="start">Hi 👋, I'm Elvis</h1>
 <h3 align="start">A passionate frontend developer from Kenya</h3>
 
 - 🌱 I’m currently learning **Vitest, Cypress**
