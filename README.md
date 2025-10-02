@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center" style="font-family: 'Titillium Web', sans-serif; font-weight: 700;">
-  Crafting Web Experiences with Code ✨
+  Turning Ideas into Interactive Experiences ✨
 </h1>
 
 
@@ -13,7 +13,7 @@ I’m a **front-end developer** passionate about building fast, accessible, and 
 - 💬 Topics I love: **JavaScript, React, TypeScript, Next JS, Tailwind, Shadcn UI**  
 - 📬 Contact: **elvis.dev21@gmail.com**
 
- 
+##
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,sass,figma,git" />
