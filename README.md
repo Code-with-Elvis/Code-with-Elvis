@@ -1,9 +1,7 @@
-<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
 <!-- HEADER -->
 <h1 align="center" style="font-family: 'Titillium Web', sans-serif; font-weight: 700;">
   Crafting Web Experiences with Code ✨
 </h1>
-
 
 
 ## 🚀 About Me  
@@ -14,6 +12,7 @@ I’m a **front-end developer** passionate about building fast, accessible, and 
 - 🧠 Writing on: [infernote.com](https://infernote.com/)  
 - 💬 Topics I love: **JavaScript, React, TypeScript, Next JS, Tailwind, Shadcn UI**  
 - 📬 Contact: **elvis.dev21@gmail.com**
+
  
 
 <p align="center">
@@ -21,10 +20,12 @@ I’m a **front-end developer** passionate about building fast, accessible, and 
 </p>
 
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-elvis&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-elvis&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
 
 
 <p align="center">
