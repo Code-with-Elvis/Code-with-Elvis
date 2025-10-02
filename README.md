@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center" style="font-family: 'Titillium Web', sans-serif; font-weight: 700;">
-  Turning Ideas into Interactive Experiences ✨
+  Building Interactive Webs ✨
 </h1>
 
 
