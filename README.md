@@ -10,7 +10,7 @@ Hi, I’m Elvis Okumu, a MERN Stack developer who enjoys turning ideas into smoo
 - 🌱 Currently learning: **Vitest** for testing workflows  
 - 💻 Portfolio: [elvis-o-dev.com](https://elvis-o-dev.com/)  
 - 🧠 Writing on: [infernote.com](https://infernote.com/)  
-- 💬 Topics I love: **JavaScript, React, TypeScript, Next JS, Tailwind, Shadcn UI, Node.js, Mongodb **  
+- 💬 Topics I love: **JavaScript, React, TypeScript, Next JS, Tailwind, Shadcn UI, Node.js, Mongodb**  
 - 📬 Contact: **elvis.dev21@gmail.com**
 
 ##
