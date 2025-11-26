@@ -1,22 +1,22 @@
 <!-- HEADER -->
 <h1 align="center" style="font-family: 'Titillium Web', sans-serif; font-weight: 700;">
-  Building Interactive Webs ✨
+  Building Interactive Webs 💫
 </h1>
 
 
 ## 🚀 About Me  
-I’m a **front-end developer** passionate about building fast, accessible, and modern web experiences. I focus on creating **clean, maintainable code** and intuitive **UI/UX** using cutting-edge frameworks and workflows.  
+Hi, I’m Elvis Okumu, a MERN Stack developer who enjoys turning ideas into smooth, practical, and meaningful web experiences. I love building things that not only work well but also feel right to use.  
 
 - 🌱 Currently learning: **Vitest** for testing workflows  
 - 💻 Portfolio: [elvis-o-dev.com](https://elvis-o-dev.com/)  
 - 🧠 Writing on: [infernote.com](https://infernote.com/)  
-- 💬 Topics I love: **JavaScript, React, TypeScript, Next JS, Tailwind, Shadcn UI**  
+- 💬 Topics I love: **JavaScript, React, TypeScript, Next JS, Tailwind, Shadcn UI, Node.js, Mongodb **  
 - 📬 Contact: **elvis.dev21@gmail.com**
 
 ##
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,sass,figma,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,sass,nodejs,mongodb,figma,git" />
 </p>
 
 
